@@ -37,7 +37,7 @@ class Octree():
 
 	Octree(int x1, y1, z1, x2, y2, z2)
 
-	insert(int x, y, z)
+	Octree.insert(int x, y, z)
 
 	bool find(int x, y, z)
 def main(self):

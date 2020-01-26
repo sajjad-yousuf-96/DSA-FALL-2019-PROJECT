@@ -1,2 +1,3 @@
+An octree is a tree data structure in which each internal node has exactly eight children ,it is a cube with 6 faces, 12 edges, and 8 vertices. Octree is mostly often used for partition in a 3D space. Octrees are often used in 3D graphic and 3D game engines.
 DSA PROJECT of UIT 2019 FALL has been made by two members MUHAMMAD SAJJAD(18B-094-SE) AND MUHAMMAD AAMIR AMIN(18B-038-SE)
 we want to add a node but till now the bugs are nit totally fixed so the code is not running properly. 
